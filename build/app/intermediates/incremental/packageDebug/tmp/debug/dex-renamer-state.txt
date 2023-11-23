@@ -1,0 +1,4 @@
+#Wed Oct 11 20:02:31 CAT 2023
+base.0=/Users/pro/Alu_Flutter_group_JR/jr/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
